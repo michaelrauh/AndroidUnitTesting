@@ -1,9 +1,8 @@
 package com.bijective.michaelrauh.androidunittesting;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends ValvedActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
